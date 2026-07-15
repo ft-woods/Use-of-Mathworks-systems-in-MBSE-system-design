@@ -30,7 +30,7 @@
 
     <td align="center">
      <!-- <a href="fluids/flow.png"> -->
-        <img src="images/MATLAB3" width="200">
+        <img src="images/MATLAB3.png" width="200">
       <!-- </a><br>  -->
       <b>MATLAB Graphing</b>
     </td>
