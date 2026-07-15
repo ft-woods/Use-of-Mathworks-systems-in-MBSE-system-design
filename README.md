@@ -33,6 +33,10 @@
   <b>MATLAB Graphing</b>
 </td>
 
+<tr>
+  
+</tr>
+
 <td align="center">
   <img src="images/MATLAB4.png" width="200">
   <br>
@@ -40,7 +44,7 @@
 </td>
 
 <td align="center">
-  <img src="images/Simulink1.png" width="200">
+  <img src="images/simulink1.png" width="200">
   <br>
   <b>Thermal Simulation</b>
 </td>
