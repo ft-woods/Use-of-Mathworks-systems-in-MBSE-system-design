@@ -13,7 +13,7 @@ This repository contains documentation demonstrating the use of MathWorks system
   <br>
   <b>Modeling of tempurature over time</b>
   <br>
-  < small> Using MATLAB, test data was modeled to approximate the rate at which the system changed temperature when traveling in lunar day conditions.</small>
+  <small> Using MATLAB, test data was modeled to approximate the rate at which the system changed temperature when traveling in lunar day conditions.</small>
 </td>
 
 <td align="center">
@@ -27,9 +27,9 @@ This repository contains documentation demonstrating the use of MathWorks system
 <td align="center">
   <img src="images/endurance_test.png" width="200">
   <br>
-  <b>MATLAB Graphing</b>
+  <b>Insulation endurance test</b>
   <br>
-  <small>Processed data displayed with labeled axes and legends.</small>
+  <small>To confirm the system met its requirements, a test was conducted where internal tempuratures must remain with a certain predetermined range to be considered a success. </small>
 </td>
 
 </tr>
@@ -39,25 +39,25 @@ This repository contains documentation demonstrating the use of MathWorks system
 <td align="center">
   <img src="images/precooling_test.png" width="200">
   <br>
-  <b>MATLAB Graphing</b>
+  <b>System precooling </b>
   <br>
-  <small>Final visualization highlighting key trends in the results.</small>
+  < small> To confirm successful fluid flow through the coolant lines a test was conducted measuring the time it took for the system to reach a designated range of temperatures from room temperature.</small>
 </td>
 
 <td align="center">
   <img src="images/simulink1.png" width="200">
   <br>
-  <b>Thermal Simulation</b>
+  <b>Electro-thermal battery simulation</b>
   <br>
-  <small>Simulink model used to simulate the thermal behavior of the system.</small>
+  < small> A Simulink model was used to simulate the impact of the lunar day environment on the battery functionality in the system.</small>
 </td>
 
 <td align="center">
   <img src="images/Simulink2.png" width="200">
   <br>
-  <b>Thermal Simulation</b>
+  <b>PCB heating simulation</b>
   <br>
-  <small>Simulation results showing temperature response over time.</small>
+  <small>A simulation was run to confirm that neither the PCB or its aluminum housing would overheat due to the power running through the system.</small>
 </td>
 
 </tr>
