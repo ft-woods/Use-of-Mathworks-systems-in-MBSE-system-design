@@ -64,7 +64,8 @@ This repository contains documentation demonstrating the use of MathWorks system
 </table>
 
 ## MATLAB
-XYZ....
+One of the ways Matlab has been applied to the RASC-AL x88 team is to graphically represent results from thermal and electrical testing. Data was collected over a period of time to see changes in temperature, state of charge, voltage, and current, as shown in the provided images. The data was read in as a csv file using the “readmatrix” function, and plotted using the “plot” function. The graphs were also formatted to include labels, legends, lines of best fit, and shaded regions to highlight a specific range of interest. Generating these graphs has been a key part of visualizing and analyzing data for the RASC-AL team as well as other x88 teams.
+
 ## Simulink
 To ensure that electronic systems were able to run under given thermal and electrical loads, the RASC-AL team utilized Simulink to set up an electro-thermal battery simulation. The simulation demonstrates the effect of all of the layers on metal, insulation, and PCM (phase change material) on protecting the system's battery from the lunar surface temperature. The simulation reads the battery's temperature as well as the current and voltage output after the application of the thermal load. 
 <td align="center">
