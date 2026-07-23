@@ -67,15 +67,13 @@ This repository contains documentation demonstrating the use of MathWorks system
 One of the ways MATLAB has been applied to the RASC-AL x88 team is to graphically represent results from thermal and electrical testing. Data was collected over a period of time to see changes in temperature, state of charge, voltage, and current, as shown in the provided images. The data was read in as a CSV file using the “readmatrix” function and plotted using the “plot” function. The graphs were also formatted to include labels, legends, lines of best fit, and shaded regions to highlight a specific range of interest. Generating these graphs has been a key part of visualizing and analyzing data for the RASC-AL team as well as other x88 teams.
 
 <td align="center">
-  <img src="images/plot1.png" width="200">
-  <br>
   <b>Code used to model temperature over time for the RASC-AL team pre-cooling test</b>
+  <img src="images/plot1.png" width="100%">
 </td>
 
 <td align="center">
-  <img src="images/plot2.png" width="200">
-  <br>
   <b>Code used in the RASC-AL team final thermal test using data in a CSV file </b>
+  <img src="images/plot2.png" width="100%">
 </td>
 
 ## Simulink
